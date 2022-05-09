@@ -1,0 +1,1 @@
+The target is to train a AGETN with assistance with AI method to play best poker
